@@ -13,7 +13,7 @@ To running, please do the following steps:
 			
 4. Run train.py to train, run test.py to evaluate the result.
 
-Some of the results(rgb image, ground truth, predicted edpth):
+Some of the results(rgb image, ground truth, predicted depth):
 				
 ![image](https://github.com/XPFly1989/FCRN/blob/master/result_521.png)
 ![image](https://github.com/XPFly1989/FCRN/blob/master/result_599.png)
